@@ -191,7 +191,8 @@
 }
 
 /* About Container */
-@media(max-widht: 450px) {
+@media(max-width: 500px) {
+    
     #container {
         flex-direction: column;
     }
